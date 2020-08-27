@@ -65,6 +65,11 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Left">Results exclude the search terms that follows the operator</td>
             <td style="text-align:Left">“skim milk” NOT “powdered milk”</td>
          </tr>
+         <tr>
+            <td style="text-align:Center">*</td>
+            <td style="text-align:Left">Results can include search terms with different endings of the root word</td>
+            <td style="text-align:Left">Lactat* 'for lactate, lactation, lactating, etc.'</td>
+         </tr>
       </table>
    </body>
 </html>
