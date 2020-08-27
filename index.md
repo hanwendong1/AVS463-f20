@@ -20,6 +20,16 @@ I developed this guide for students enrolled in Animal and Veterinary Science 46
 - Contribution of dairy industry to greenhouse gases
 - Separation of dairy cow from calf
 
+{% capture text %}
+
+1. Apply Boolean logic to search strategy
+2. Select journals and databases for research in dairy science
+3. Find popular and scholarly sources on chosen topic
+4. Evaluate and revise search strategy based on search results
+
+{% endcapture %}
+
+{% include card.md text=text header="Learning Outcomes" %}
 ## Learning Outcomes
 This guide will help you to:
 1.	Apply Boolean logic to search strategy
