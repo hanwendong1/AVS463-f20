@@ -1,24 +1,18 @@
 ---
-title: Prep
+title: Getting Started
 nav: true
 --- 
 
-# Workshop Prep
-
-To create your own materials using `workshop-template-b`, please create a free [GitHub account](https://github.com/join) if you do not have one already.
-Basic familiarity with the GitHub web interface will be helpful.
-
-For a quick introduction check out GitHub's [Hello World guide](https://guides.github.com/activities/hello-world/) and [Try Git](https://try.github.io/).
-
-It is possible to create a website with this template using only GitHub's web interface--in fact, it works great!
-However, for more advanced uses you will want Git, Ruby, and Jekyll installed on your computer to do local development.
-
+# Boolean Logic
+When conducting college-level research, there is a general research process to follow:
 {% capture text %}
-1. Have a [GitHub](https://github.com) account.
-2. Fork or import this [repository](https://github.com/evanwill/workshop-template-b).
-3. Optional: have [Git](https://git-scm.com/), [Jekyll](https://jekyllrb.com/), and a nice [text editor](https://code.visualstudio.com/) installed.
+1. Select topic
+2. Use Boolean logic to expand or narrow key concepts or keywords
+3. Select a database
+4. Evaluate and revise search strategy
+5. Choose items and find full-text online or in print
 {% endcapture %}
-{% include card.md text=text header="Setup Overview" %}
+{% include card.md text=text header="Research Process" %}
 
 # Local Jekyll Setup [optional]
 
