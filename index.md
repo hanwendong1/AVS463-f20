@@ -18,8 +18,8 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
         <h5 class="card-title">Hanwen Dong</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
         <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Email</a>
-        <a href = "mailto: hanwendong@uidaho.edu" class="btn btn-primary">Call</a>
-        <a href = "https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu" class="btn btn-primary">Schedule Appointment</a>
+        <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Call</a>
+        <a href = "https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu" class="btn bg-warning mb-3">Schedule Appointment</a>
       </div>
     </div>
   </div>
@@ -28,10 +28,10 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
       <div class="card-body">
         <h5 class="card-title">Library Reference</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href = "mailto: libref@uidaho.edu" class="btn btn-primary">Email</a>
-        <a href = "mailto: hanwendong@uidaho.edu" class="btn btn-primary">Call</a>
-        <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn btn-primary">Chat</a>
-        <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn btn-primary">Text</a>
+        <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
+        <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call</a>
+        <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn bg-warning mb-3">Chat</a>
+        <a href = "sms:208-449-0841" class="btn bg-warning mb-3">Text</a>
       </div>
     </div>
   </div>
