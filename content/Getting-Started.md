@@ -34,7 +34,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             tr:hover {background-color: #f1b300;}
          }
          th {
-  background-color: #4CAF50;
+  background-color: #f1b300;
   color: white;
             }
       </style>
