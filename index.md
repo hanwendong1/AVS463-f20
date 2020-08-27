@@ -17,7 +17,7 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
       <div class="card-body">
         <h5 class="card-title">Hanwen Dong</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-        <a href="hanwendong@uidaho.edu" class="btn btn-primary">Email</a>
+        <a href = "mailto: hanwendong@uidaho.edu" class="btn btn-primary">Email</a>
       </div>
     </div>
   </div>
