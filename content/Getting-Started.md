@@ -30,8 +30,6 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
   text-align: right;
   color: 009900;
   border-color: #000000;
-    /* else in FF 3.6.6 the cell border is also green! */
-  background: #EEEEEE;
   padding: 0 0.3em;
 }
 
