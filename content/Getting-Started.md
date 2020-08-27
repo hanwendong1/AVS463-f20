@@ -50,8 +50,8 @@ tr:nth-child(even) {
     <th>Example</th>
   </tr>
   <tr>
-    <td>AND	All</td>
-    <td>search terms must be present in the results</td>
+    <td>AND</td>
+    <td>All search terms must be present in the results</td>
     <td>Antibiotic AND farm</td>
   </tr>
   <tr>
