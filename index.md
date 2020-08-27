@@ -26,6 +26,7 @@ After reviewing the content of this guide, you will be able to:
 2. Select journals and databases for research in dairy science
 3. Find popular and scholarly sources on chosen topic
 4. Evaluate and revise search strategy based on search results
+
 ------
 {% include toc.html %}
 
