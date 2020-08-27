@@ -71,6 +71,11 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Center">*</td>
             <td style="text-align:Left">Results can include search terms with different endings of the root word</td>
             <td style="text-align:Left">Lactat* 'for lactate, lactation, lactating, etc.'</td>
+         </tr>         
+         <tr>
+            <td style="text-align:Center">( )</td>
+            <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
+            <td style="text-align:Left">(“low-fat milk” OR “skim milk”) AND “whole milk” AND consumption</td>
          </tr>
       </table>
    </body>
