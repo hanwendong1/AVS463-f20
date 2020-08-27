@@ -87,6 +87,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
       </table>
    </body>
 </html>
+
 You can check out [this guide](https://libguides.uidaho.edu/boolean) for more information on Boolean logic.
 
 {% capture alert %}*Note:* Jekyll does not officially support Windows, however it is cross platform (they just don’t officially write windows documentation or check for bugs).
