@@ -32,7 +32,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             padding: 15px;
             border-bottom: 1px solid #ddd;
             width: 300px;
-            tr:hover {background-color: #f5f5f5;}
+            tr:hover {background-color: #f1b300;}
          }
          th {
   background-color: #4CAF50;
@@ -40,7 +40,6 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             }
       </style>
    </head>
-         <div style="overflow-x:auto;">
 
    <body>
 
@@ -61,7 +60,6 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Left">lactation OR secretion OR yield</td>
          </tr>
       </table>
-      </div>
 
    </body>
 </html>
