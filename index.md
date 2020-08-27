@@ -29,7 +29,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
         <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
         <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call 208-885-6584</a>
         <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn bg-warning mb-3">Chat</a>
-        <a href = "sms:208-449-0841" class="btn bg-warning mb-3">Text</a>
+        <a href = "sms:208-449-0841" class="btn bg-warning mb-3">Text 208-449-0841</a>
       </div>
     </div>
   </div>
