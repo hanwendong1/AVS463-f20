@@ -11,21 +11,21 @@ In addition to [Academic Search Premier](https://uidaho.idm.oclc.org/login?url=h
 - [Google Scholar](https://uidaho.idm.oclc.org/login?url=https://scholar.google.com/)
 
 # Journals 
-The library subscribes to the following diary science journals. The articles published by these reputable journals are generally authoritative.
-- Animal Feed Science and Technology
-- Animal Genetics
-- Applied Animal Behaviour Science
-- Dairy Foods
-- Dairy Herd Management
-- Dairy Industries International
-- Dairy Science & Technology
-- Hoard's Dairyman
-- International Dairy Journal
-- Journal of Animal Breeding and Genetics
-- Journal of Animal Science
-- Journal of Dairy Science
-- Journal of Food Science
-- Professional Animal Scientist
+The library subscribes to the following diary science journals, most of which are online. The articles published by these reputable journals are generally authoritative.
+- [Animal Feed Science and Technology](https://www-sciencedirect-com.uidaho.idm.oclc.org/journal/animal-feed-science-and-technology)
+- [Animal Genetics](https://onlinelibrary-wiley-com.uidaho.idm.oclc.org/journal/13652052)
+- [Applied Animal Behaviour Science](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71133257400001451)
+- [Dairy Foods](https://go-gale-com.uidaho.idm.oclc.org/ps/i.do?p=ITOF&u=mosc00780&id=GALE%7C3301&v=2.1&it=aboutJournal)
+- [Dairy Herd Management](https://www-proquest-com.uidaho.idm.oclc.org/publication/6807?accountid=14551&OpenUrlRefId=info:xri/sid:primo)
+- Dairy Industries International ([print](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71175269030001451), [online](https://go-gale-com.uidaho.idm.oclc.org/ps/i.do?p=ITOF&u=mosc00780&id=GALE|3520&v=2.1&it=aboutJournal))
+- [Dairy Science & Technology](https://www.dairy-journal.org/index.php?option=com_issues&task=multi&Itemid=39&lang=en_GB.utf8,+en_GB.UT)
+- Hoard's Dairyman ([print](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71117680130001451), [microform](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71109365720001451))
+- [International Dairy Journal](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71101347840001451)
+- [Journal of Animal Breeding and Genetics](https://onlinelibrary-wiley-com.uidaho.idm.oclc.org/journal/14390388)
+- [Journal of Animal Science](https://academic-oup-com.uidaho.idm.oclc.org/jas)
+- [Journal of Dairy Science](https://www-sciencedirect-com.uidaho.idm.oclc.org/journal/journal-of-dairy-science)
+- [Journal of Food Science](https://onlinelibrary-wiley-com.uidaho.idm.oclc.org/journal/17503841)
+- [Professional Animal Scientist](https://www-proquest-com.uidaho.idm.oclc.org/publication/27148?accountid=14551&OpenUrlRefId=info:xri/sid:primo)
 
 # Print Books
 One viable search strategy to find print books on the search topic is shelf browsing. That is visiting the bookshelves to browse the book collections with a particular subject focus area using LC call number. For example, if you are interested in Dairy processing and Dairy products, you would need to look for call numbers that start with SF250.5-275. Other relevant call numbers include: 
@@ -35,6 +35,7 @@ One viable search strategy to find print books on the search topic is shelf brow
 - SF221-250 Dairying 
 - QP1-(981) Physiology
 - QP501-801 Animal biochemistry
+
 Use the [floor maps](https://www.lib.uidaho.edu/about/maps.html) to locate the shelves that contain the specified call number groups.
 
 # Government Documents
@@ -54,5 +55,6 @@ If you are looking for contextual information and overview of issue at stake for
 
 # Citation Styles
 Remember to cite your sources and format them according to either [Journal of Animal Science](https://academic.oup.com/jas/pages/General_Instructions) or [Journal of Dairy Science](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb/assets/raw/Health%20Advance/journals/jods/JDS_Instruct_for_Contributors_SF.pdf). 
+
 You may also consider using a citation manager (if you have never used one before) to cite your sources. A citation manager can be a time saver, and is incredibly useful if you are thinking about pursuing a master’s or doctoral degree in which considerable writing is expected. The library is hosting a workshop on Citation Management with Zotero via Zoom on Tuesday, September 29, 2020 from 12:30pm to 1:30pm. Feel free to [register](https://libcal.uidaho.edu/event/6866744) and attend the live session if you want to ask any questions. A recording of a past session is available as well. 
 
