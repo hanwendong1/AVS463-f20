@@ -29,13 +29,6 @@ The library subscribes to the following diary science journals, most of which ar
 
 # Print Books
 One viable search strategy to find print books on a topic is shelf browsing. That is to visit the library and locate the physical bookshelves to browse the book collections with a particular subject focus area using LC call number. For example, if you are interested in Dairy processing and Dairy products, you would want to look for call numbers that start with SF250.5-275. Other relevant call numbers include: 
-- SF1-1100 Animal culture
-- SF94.5-99 Feeds and feeding. Animal nutrition
-- SF191-275 Cattle 
-- SF221-250 Dairying 
-- QP1-(981) Physiology
-- QP501-801 Animal biochemistry
-
 <html>
    <head>
       <style>
@@ -68,6 +61,18 @@ One viable search strategy to find print books on a topic is shelf browsing. Tha
          <tr>
             <td style="text-align:Left">SF191-275</td>
             <td style="text-align:Left">Cattle</td>
+         </tr>
+          <tr>
+            <td style="text-align:Left">SF221-250</td>
+            <td style="text-align:Left">Dairying</td>
+         </tr>
+          <tr>
+            <td style="text-align:Left">QP1-(981)</td>
+            <td style="text-align:Left">Physiology</td>
+         </tr>
+          <tr>
+            <td style="text-align:Left">QP501-801</td>
+            <td style="text-align:Left">Animal biochemistry</td>
          </tr>
       </table>
    </body>
