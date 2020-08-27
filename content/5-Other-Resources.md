@@ -101,5 +101,7 @@ If you are looking for contextual background information and overview of issue a
 # Citation
 Remember to cite your sources and format them according to the reference style of either [Journal of Animal Science](https://academic.oup.com/jas/pages/General_Instructions) or [Journal of Dairy Science](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb/assets/raw/Health%20Advance/journals/jods/JDS_Instruct_for_Contributors_SF.pdf). 
 
-You may also consider using a citation manager (if you have never used one before) to cite your sources. A citation manager can be a time saver, and is incredibly useful if you are thinking about pursuing a master’s or doctoral degree in which considerable writing is expected. The library is hosting a workshop on Citation Management with Zotero via Zoom on Tuesday, September 29, 2020 from 12:30pm to 1:30pm. Feel free to [register](https://libcal.uidaho.edu/event/6866744) and attend the live session if you want to ask any questions. [A recording of a past session](https://youtu.be/yw1oe57SqzE) is available as well. 
+You may also consider using a citation manager (if you have never used one before) to cite your sources. A citation manager can be a time saver, and is incredibly useful if you are thinking about pursuing a master’s or doctoral degree in which considerable writing is expected. The library is hosting a workshop on Citation Management with Zotero via Zoom on Tuesday, September 29, 2020 from 12:30pm to 1:30pm. Feel free to [register](https://libcal.uidaho.edu/event/6866744) and attend the live session if you want to ask any questions. A recording of a past session (linked below) is available as well. 
+
+{% include video-embed.html youtubeid="yw1oe57SqzE" caption="Citation Management:Zotero" %}
 
