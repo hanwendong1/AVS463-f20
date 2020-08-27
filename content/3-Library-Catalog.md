@@ -13,13 +13,15 @@ In the dropdown menu next to the microphone in the search box, choose UI Library
 
 You can use catalog’s personalize feature to select your preferred disciplines. For instance, you might be only interested in *Agriculture & Forestry*, *Medicine*, and *Social Sciences* disciplines for this assignment. Check the box for `Prefer newer material` if you are only interested in recently published sources.
 
-## Refine results 
+## Refine Results 
 
 If you are only interested in scholarly sources, check the box for `Peer-reviewed Journals` under `Availability`, then click the `APPLY FILTERS` button.
 If you want a variety of different types of sources, check the boxes for `Articles`, `Conference Proceedings`, `Print Books`, `eBooks`, `Reports`, `Newspaper Articles`, and `Book Chapters` under `Resource Type`, then click the `APPLY FILTERS` button. If the majority of the search results are from newspaper sources and you are no longer interested in popular sources, click the `X` next to `Newspaper Articles` under `Active filters`.
 If you are looking for sources that are relevant to your debate topic, such as consumption, check the boxes under `Topic`, then click the `APPLY FILTERS` button. 
 
-## LCSH and PCI subjects
+## LCSH and PCI Subjects
 
 Similar to the subject terms in Academic Search Premier, LCSH subjects can be used to refine the search results by sources that are tagged with the same subjects. Click [this link](https://id.loc.gov/authorities/subjects.html) to learn more about and to search LCSH subjects. 
+
+## Find Full-Text Online
 
