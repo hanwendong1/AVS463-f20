@@ -46,7 +46,7 @@ In the search box, type in your search terms (*antibiotics farms*, for instance)
 
 The CQ Researcher explores a single 'hot' issue in the news in depth each week. Topics range from social and teen issues to environment, health, education and science and technology. There are 44 reports produced each year including four expanded reports. Every 12,000-word report is written by an experienced journalist and features comments from experts, lawmakers and citizens on all sides of every issue. Numerous charts, graphs and sidebar articles -- plus a pro-con feature, a chronology, lengthy bibliographies and a list of contacts -- round out each report. Follow this link to access [CQ Researcher](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/index.php).
 
-If your research topic is on *Organic vs. conventional farming*, click [this link](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/document.php?id=cqresrre2018110200) to access the full report. You can skim most of the article; the Pro/Con part may be the section that you are most interested in.
+If your topic is on *Organic vs. conventional farming*, click [this link](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/document.php?id=cqresrre2018110200) to access the full report. You can skim most of the article; the Pro/Con part may be the section that you are most interested in.
 
 ## Components Includes
 
