@@ -40,8 +40,9 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             }
       </style>
    </head>
+         <div style="overflow-x:auto;">
+
    <body>
-      <div style="overflow-x:auto;">
 
       <table>
          <tr>
