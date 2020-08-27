@@ -32,7 +32,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
   border-color: #000000;
   padding: 0 0.3em;
 }
-
+</style>
 <TABLE border="1">
   <COLGROUP>
   <COL><COL align="char" char=".">
