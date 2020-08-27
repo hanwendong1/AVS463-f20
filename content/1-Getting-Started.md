@@ -21,7 +21,7 @@ Since you have already selected your topic, this guide will focus on the other a
 
 # Boolean Logic
 
-Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, expand, or define your search, and is applicable to conducting searches in library catalog and most databases. Writing out your search terms using Boolean operators by connecting pieces of information and coming up with synonyms is a good exercise as it can specify wanted results and filter out unrelated results. Below are some of the most common Boolean operators you can use:
+Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, expand, or define a search, and is applicable to conducting searches in library catalog and most databases. Writing out your search terms using Boolean operators by connecting pieces of information and coming up with synonyms is a good exercise as it can specify wanted results and filter out unrelated results. Below are some of the most common Boolean operators you can use:
 
 <html>
    <head>
@@ -45,9 +45,9 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    <body>
       <table>
          <tr>
-            <th style="background-color: #f1b300; color: white">Boolean Operator</th>
-            <th style="background-color: #f1b300; color: white">Explanation</th>
-            <th style="background-color: #f1b300; color: white">Example</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Boolean Operator</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Explanation</th>
+            <th style="background-color: #f1b300; color: white; text-align:Center">Example</th>
          </tr>
          <tr>
             <th style="text-align:Center">AND</th>
