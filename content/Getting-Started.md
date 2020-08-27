@@ -85,18 +85,18 @@ tr:nth-child(even) {
 </html>
 
 
+<TABLE border="1">
+  <COLGROUP>
+  <COL><COL align="char" char=".">
+  <THEAD><TR><TH>Vegetable <TH>Cost per kilo
+  <TBODY>
+  <TR><TD>Lettuce <TD>$1
+  <TR><TD>Silver carrots <TD>$10.50
+  <TR><TD>Golden turnips <TD>$100.30
+</TABLE>
+
 {% capture alert %}*Note:* Jekyll does not officially support Windows, however it is cross platform (they just don’t officially write windows documentation or check for bugs).
 There is a [Jekyll on Windows](https://jekyllrb.com/docs/windows/#installation) page, but it can be out of date and inaccurate.{% endcapture %}
 {% include alert.md text=alert color="warning" %}
 
-# Text Editor
 
-When working with code you should have a good text editor.
-Windows notepad does not handle UTF-8 encoding or UNIX line endings that are standard for cross platform applications. 
-For basic editing, Windows [Notepad++](https://notepad-plus-plus.org/), Mac TextEdit, or Linux Gedit are sufficient.
-However, a more complete code editor will be helpful for managing Jekyll projects.
-
-Open-source cross platform suggestions:
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Atom](https://atom.io/)
