@@ -5,7 +5,7 @@ layout: default
 
 # Hello and Welcome!
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (photo taken by Joe Pallen<jpallen@uidaho.edu>)" width="75%" %}
 
 My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me if you encounter any questions during your research process. You can email me <hanwendong@uidaho.edu>, call my office phone at 208-885-2525, or schedule a zoom meeting with me by following [this link](https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu). You may also contact the library via [chat](https://www.lib.uidaho.edu/help/chat.html), email <libref@uidaho.edu>, and text 208-449-0841 for help.
 
