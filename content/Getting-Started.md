@@ -32,6 +32,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             border-bottom: 1px solid #ddd;
          
          th {            
+            style="text-align:Center"
             border: 1px solid black;
             padding-top: 12px;
             padding-bottom: 12px;
@@ -48,7 +49,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <th style="background-color: #f1b300; color: white">Example</th>
          </tr>
          <tr>
-            <td style="text-align:Center">AND</td>
+            <th style="text-align:Center">AND</th>
             <td style="text-align:Left">All search terms must be present in the results</td>
             <td style="text-align:Left">Antibiotic AND farm</td>
          </tr>
@@ -76,6 +77,11 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Center">( )</td>
             <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
             <td style="text-align:Left">(“low-fat milk” OR “skim milk”) AND “whole milk” AND consumption</td>
+         </tr>
+         <tr>
+            <td style="text-align:Center">?</td>
+            <td style="text-align:Left">Results include words with alternative spellings</td>
+            <td style="text-align:Left">“pasteuri?ed milk”</td>
          </tr>
       </table>
    </body>
