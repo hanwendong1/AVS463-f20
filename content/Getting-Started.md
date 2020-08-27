@@ -27,12 +27,12 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
       <style>
          table {width: 100%;}
          table, td, th {
-            border: 1px solid black;
             border-collapse: collapse;
             padding: 8px;
             border-bottom: 1px solid #ddd;
          
-         th {
+         th {            
+            border: 1px solid black;
             padding-top: 12px;
             padding-bottom: 12px;
             background-color: #f1b300;
