@@ -24,6 +24,12 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
 # Local Jekyll Setup [optional]
 
 ## Install Git
