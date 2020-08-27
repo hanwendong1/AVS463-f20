@@ -54,8 +54,8 @@ If you are looking for contextual background information and overview of issue a
 - [USDA census of agriculture](https://www.nass.usda.gov/AgCensus)
 - [USDA National Agricultural Statistics Service](https://www.nass.usda.gov/index.php)
 
-# Citation Styles
-Remember to cite your sources and format them according to either [Journal of Animal Science](https://academic.oup.com/jas/pages/General_Instructions) or [Journal of Dairy Science](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb/assets/raw/Health%20Advance/journals/jods/JDS_Instruct_for_Contributors_SF.pdf). 
+# Citation
+Remember to cite your sources and format them according to the reference style of either [Journal of Animal Science](https://academic.oup.com/jas/pages/General_Instructions) or [Journal of Dairy Science](https://els-jbs-prod-cdn.jbs.elsevierhealth.com/pb/assets/raw/Health%20Advance/journals/jods/JDS_Instruct_for_Contributors_SF.pdf). 
 
 You may also consider using a citation manager (if you have never used one before) to cite your sources. A citation manager can be a time saver, and is incredibly useful if you are thinking about pursuing a master’s or doctoral degree in which considerable writing is expected. The library is hosting a workshop on Citation Management with Zotero via Zoom on Tuesday, September 29, 2020 from 12:30pm to 1:30pm. Feel free to [register](https://libcal.uidaho.edu/event/6866744) and attend the live session if you want to ask any questions. [A recording of a past session](https://youtu.be/yw1oe57SqzE) is available as well. 
 
