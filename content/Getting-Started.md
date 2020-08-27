@@ -33,15 +33,16 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
       </style>
    </head>
    <body>
-      <h1>Our Technologies</h1>
       <table>
          <tr>
-            <th>IDE</th>
-            <th>Database</th>
+            <th>Boolean Operator</th>
+            <th>Explanation</th>
+            <th>Example</th>
          </tr>
          <tr>
-            <td style="text-align:center">NetBeans</td>
-            <td style="text-align:center">MySQL</td>
+            <td style="text-align:center">AND</td>
+            <td style="text-align:Left">All search terms must be present in the results</td>
+            <td style="text-align:Left">Antibiotic AND farm</td>
          </tr>
       </table>
    </body>
