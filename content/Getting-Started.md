@@ -43,19 +43,16 @@ tr:nth-child(even) {
 </style>
 </head>
 <body>
-
-<h2>HTML Table</h2>
-
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Boolean Operator</th>
+    <th>Explanation</th>
+    <th>Example</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>AND	All</td>
+    <td>search terms must be present in the results</td>
+    <td>Antibiotic AND farm</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
