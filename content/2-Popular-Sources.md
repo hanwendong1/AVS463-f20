@@ -19,7 +19,10 @@ This search yields over 1,000 relevant results that include a mix of popular and
 
 On the search results page, you can click the titles of the articles to access the abstracts and contents. The publishers and publication dates can be useful. For instance, since you are looking for sources that cover consumer’s perception of using bST to increase milk production, an article published by Consumers' Research Magazine or FDA Consumer would provide such perspective. If you are interested in reading about the topic with recent research, looking at articles published in the last few years would be appropriate; or, you can look at articles published in a span of ten or 20 years if you are interested in researching on a more holistic perspective of the topic and how the public opinion has changed over time.
 
-Additionally, feel free to conduct a [CRAAP test](https://libguides.uidaho.edu/c.php?g=363237&p=2453602) to evaluate the sources based on various criteria.
+{% capture text %}Note:
+Feel free to conduct a [CRAAP test](https://libguides.uidaho.edu/c.php?g=363237&p=2453602) to evaluate the sources based on various criteria.
+{% endcapture %}
+{% include alert.md text=text color=secondary %}
 
 Subjects is another field that is incredibly useful. Think of subjects as tags—information professionals categorize each information source based on what it is about—that an article may be related to the topic that you are interested in, but the keywords you used do not appear in the title or the content. For example, [this article](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=9610111153&site=ehost-live&scope=site) is about *bovine somatotropin*, but the language only included *bovine growth hormone* so a keyword search may not display this source. This is why searching with subject terms can be more reliable than with keywords.
 Other relevant subjects include:
