@@ -23,11 +23,12 @@ I developed this guide for students enrolled in Animal and Veterinary Science 46
 ## Learning Outcomes
 This guide will help you to:
 1.	Apply Boolean logic to search strategy
-1.	Select journals and databases for research in dairy science
-1.	Find popular and scholarly sources on chosen topic
-1.	Evaluate and revise search strategy based on search results
+2.	Select journals and databases for research in dairy science
+3.	Find popular and scholarly sources on chosen topic
+4.	Evaluate and revise search strategy based on search results
 
-{% include toc.html %}
+
 ------
+{% include toc.html %}
 
 {% include credits.html %}
