@@ -27,6 +27,7 @@ This guide will help you to:
 1.	Find popular and scholarly sources on chosen topic
 1.	Evaluate and revise search strategy based on search results
 
+{% include toc.html %}
 ------
 
 {% include credits.html %}
