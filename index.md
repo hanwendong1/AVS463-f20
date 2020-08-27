@@ -27,12 +27,6 @@ This guide will help you to:
 3.	Find popular and scholarly sources on chosen topic
 4.	Evaluate and revise search strategy based on search results
 
-
-------
-{% include toc.html %}
-
-{% include credits.html %}
-
 <html>
    <head>
       <style>
@@ -52,3 +46,8 @@ This guide will help you to:
       </table>
    </body>
 </html>
+
+------
+{% include toc.html %}
+
+{% include credits.html %}
