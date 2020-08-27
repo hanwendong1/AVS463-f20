@@ -41,7 +41,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    <body>
       <table>
          <tr>
-            <th>Boolean Operator</th>
+            <th style="background-color: #f1b300">Boolean Operator</th>
             <th>Explanation</th>
             <th>Example</th>
          </tr>
@@ -59,6 +59,11 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Center">" "</td>
             <td style="text-align:Left">Results must include search terms in the defined order</td>
             <td style="text-align:Left">“bovine somatotropin” OR “bovine growth hormone”</td>
+         </tr>
+          <tr>
+            <td style="text-align:Center">NOT</td>
+            <td style="text-align:Left">Results exclude the search terms that follows the operator</td>
+            <td style="text-align:Left">“skim milk” NOT “powdered milk”</td>
          </tr>
       </table>
    </body>
