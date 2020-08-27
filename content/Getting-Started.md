@@ -22,29 +22,29 @@ Since you have already selected your topic, this guide will focus on the other a
 
 Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, expand, or define your search, and is applicable to conducting searches in library catalog and most databases. Writing out your search terms using Boolean operators by connecting pieces of information and coming up with synonyms is a good exercise as it can specify wanted results and filter out unrelated results. These are some of the most common Boolean operators you can use:
 
+<!DOCTYPE html>
 <html>
-<head>
-<style>
-  
-  table.secondcolalignright td:first-child+td {
-  text-align: right;
-  color: 009900;
-  border-color: #000000;
-  padding: 0 0.3em;
-}
-</style>
-<TABLE border="1">
-  <COLGROUP>
-  <COL><COL align="char" char=".">
-  <THEAD><TR><TH>Vegetable <TH>Cost per kilo
-  <TBODY>
-  <TR><TD>Lettuce <TD>$1
-  <TR><TD>Silver carrots <TD>$10.50
-  <TR><TD>Golden turnips <TD>$100.30
-</TABLE>
-    
-
-</body>
+   <head>
+      <style>
+         table, td, th {
+            border: 1px solid black;
+            width: 300px;
+         }
+      </style>
+   </head>
+   <body>
+      <h1>Our Technologies</h1>
+      <table>
+         <tr>
+            <th>IDE</th>
+            <th>Database</th>
+         </tr>
+         <tr>
+            <td style="text-align:center">NetBeans</td>
+            <td style="text-align:center">MySQL</td>
+         </tr>
+      </table>
+   </body>
 </html>
 
 
