@@ -28,6 +28,9 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
       <style>
          table, td, th {
             border: 1px solid black;
+            border-collapse: collapse;
+            padding: 15px;
+
             width: 300px;
          }
       </style>
