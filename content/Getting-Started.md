@@ -29,10 +29,12 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          table, td, th {
             border: 1px solid black;
             border-collapse: collapse;
-            padding: 15px;
+            padding: 8px;
             border-bottom: 1px solid #ddd;
          
          th {
+            padding-top: 12px;
+            padding-bottom: 12px;
             background-color: #f1b300;
             color: white;
             }
@@ -42,8 +44,8 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
       <table>
          <tr>
             <th style="background-color: #f1b300; color: white">Boolean Operator</th>
-            <th>Explanation</th>
-            <th>Example</th>
+            <th style="background-color: #f1b300; color: white">Explanation</th>
+            <th style="background-color: #f1b300; color: white">Example</th>
          </tr>
          <tr>
             <td style="text-align:Center">AND</td>
