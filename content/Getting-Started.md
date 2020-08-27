@@ -41,7 +41,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    <body>
       <table>
          <tr>
-            <th style="background-color: #f1b300">Boolean Operator</th>
+            <th style="background-color: #f1b300; color: white">Boolean Operator</th>
             <th>Explanation</th>
             <th>Example</th>
          </tr>
