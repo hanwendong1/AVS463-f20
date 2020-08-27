@@ -7,7 +7,7 @@ layout: default
 
 {% include figure.html img="uidaho-workshop.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
-My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me or the library if you have any questions about using the library, finding resources for research papers and projects, creating effective research strategies, managing citations, etc.
+My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me or the library if you have any information seeking needs.
 
 emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515, or scheduling a zoom meeting with me by following [this link](https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu). You may also contact the library via [chat](https://www.lib.uidaho.edu/help/chat.html), email <libref@uidaho.edu>, or text 208-449-0841 for help.
 
@@ -16,9 +16,9 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Hanwen Dong</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <p class="card-text">Contact me if you have questions about this guide or finding resources related to your discipline.</p>
         <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Email</a>
-        <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Call</a>
+        <a href = "tel:208-885-2515" class="btn bg-warning mb-3">Call 208-885-2515</a>
         <a href = "https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu" class="btn bg-warning mb-3">Schedule Appointment</a>
       </div>
     </div>
@@ -27,7 +27,7 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Library Reference</h5>
-        <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+        <p class="card-text">Contact the library if you have any questions about using the library, finding resources for research papers and projects, creating effective research strategies, managing citations, etc.</p>
         <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
         <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call 208-885-6584</a>
         <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn bg-warning mb-3">Chat</a>
