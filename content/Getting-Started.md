@@ -47,6 +47,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
 </body>
 </html>
 
+
 {% capture alert %}*Note:* Jekyll does not officially support Windows, however it is cross platform (they just don’t officially write windows documentation or check for bugs).
 There is a [Jekyll on Windows](https://jekyllrb.com/docs/windows/#installation) page, but it can be out of date and inaccurate.{% endcapture %}
 {% include alert.md text=alert color="warning" %}
