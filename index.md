@@ -16,7 +16,7 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
     <div class="card">
       <div class="card-body">
         <h5 class="card-title">Hanwen Dong</h5>
-        <p class="card-text">Contact me if you have questions about this guide or finding resources related to your discipline.</p>
+        <p class="card-text">Contact me if you have any questions about this guide or finding resources related to your discipline.</p>
         <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Email</a>
         <a href = "tel:208-885-2515" class="btn bg-warning mb-3">Call 208-885-2515</a>
         <a href = "https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu" class="btn bg-warning mb-3">Schedule Appointment</a>
