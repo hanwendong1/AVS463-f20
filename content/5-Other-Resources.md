@@ -36,6 +36,13 @@ One viable search strategy to find print books on a topic is shelf browsing. Tha
 - QP1-(981) Physiology
 - QP501-801 Animal biochemistry
 
+<table>
+    <tr>
+        <td>Foo</td>
+        <td>Foo</td>
+    </tr>
+</table>
+
 Use the [floor maps](https://www.lib.uidaho.edu/about/maps.html) to locate the shelves that contain the specified call number groups.
 
 # Government Documents
