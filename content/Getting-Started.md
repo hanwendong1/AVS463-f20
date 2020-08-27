@@ -30,7 +30,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             border-collapse: collapse;
             padding: 15px;
             border-bottom: 1px solid #ddd;
-            width: 100%;
+         
          th {
             background-color: #f1b300;
             color: white;
@@ -46,8 +46,8 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          </tr>
          <tr>
             <td style="text-align:Center">AND</td>
-            <td style="text-align:Left">All search terms must be present in the results</td>
-            <td style="text-align:Left">Antibiotic AND farm</td>
+            <td style="text-align:Left"; width: 100%;>All search terms must be present in the results</td>
+            <td style="text-align:Left"; width: 100%;>Antibiotic AND farm</td>
          </tr>
          <tr>
             <td style="text-align:Center">OR</td>
