@@ -40,9 +40,14 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <th>Example</th>
          </tr>
          <tr>
-            <td style="text-align:center">AND</td>
+            <td style="text-align:Center">AND</td>
             <td style="text-align:Left">All search terms must be present in the results</td>
             <td style="text-align:Left">Antibiotic AND farm</td>
+         </tr>
+         <tr>
+            <td style="text-align:Center">OR</td>
+            <td style="text-align:Left">Results can include any of the search terms</td>
+            <td style="text-align:Left">lactation OR secretion OR yield</td>
          </tr>
       </table>
    </body>
