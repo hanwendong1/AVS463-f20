@@ -72,7 +72,7 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          <tr>
             <th style="text-align:Center">*</th>
             <td style="text-align:Left">Results can include search terms with different endings of the root word</td>
-            <td style="text-align:Left">Lactat* 'for lactate, lactation, lactating, etc.'</td>
+            <td style="text-align:Left">Lactat* [for lactate, lactation, lactating, etc.]</td>
          </tr>         
          <tr>
             <th style="text-align:Center">( )</th>
