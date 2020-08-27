@@ -9,7 +9,7 @@ The assignment requires gathering information on consumers’ perceptions of you
 
 Academic Search Premier is a multi-disciplinary database that contains full-text versions of thousands of publications, including academic titles, popular magazines, and newspapers. Since it covers nearly all fields of study, it's a good place to start a research project.
 
-You can access Academic Search Premier from the library’s homepage under the catalog search bar. Once you log in with you UI credentials, you can type in your keyword search terms in the search box. For example, if your topic is *Use of bST (growth hormone) to increase milk production*, you can type bST in the search box and click the `Search` button. 
+You can access Academic Search Premier from the [library’s homepage](https://www.lib.uidaho.edu/) under the catalog search bar. Once you log in with you UI credentials, you can type in your keyword search terms in the search box. For example, if your topic is *Use of bST (growth hormone) to increase milk production*, you can type bST in the search box and click the `Search` button. 
 
 This search yields over 4,000 results. You may notice that most of the results are not relevant to our topic. Some of the results that came up when searching bST include Band Segmented Transmission, Behavior skills training, Barium Strontium Titanate, etc. Let’s revise our search strategy. 
 
@@ -35,22 +35,17 @@ Experiment with different combinations of subjects and see which ones work best 
 
 Other useful features of Academic Search Premier include `HTML Full Text` and `PDF Full Text` on the search results page, and `print`, `email`, and `export` tools in the Tools panel on the search record page.
 
+# Opposing Viewpoints
 
-# Create Lesson Content
+Opposing Viewpoints is another useful database to search for popular sources. The database includes topic overviews, pro/con viewpoint essays, thousands of podcasts (including premier NPR programs), etc. New reference content is added on an ongoing basis, and new full-text periodical and newspaper articles are added every day. Click this link to access [Opposing Viewpoints](https://go-gale-com.uidaho.idm.oclc.org/ps/dispBasicSearch.do?userGroupName=mosc00780&prodId=OVIC).
 
-Edit the lesson Markdown files to create content pages.
+In the search box, type in your search terms (*antibiotics farms*, for instance). Under `SHOWING RESULTS FOR`, click `Viewpoints` to access viewpoint essays. Other useful content types include `Audio`, `News`, and `Magazines`.
 
-[Markdown](https://daringfireball.net/projects/markdown/) is a standard to [simplify writing](https://evanwill.github.io/_drafts/notes/writing-markdown.html) content for the web. 
-[GitHub markdown flavor](https://help.github.com/articles/basic-writing-and-formatting-syntax/) can be used any where on GitHub and in Jekyll.
-The basics are intuitive, you can learn in about a minute!
-See [Markdown in a Minute](https://evanwill.github.io/_drafts/notes/markdown-minute.html) to get started.
+# CQ Researcher
 
-When creating content pages:
+The CQ Researcher explores a single 'hot' issue in the news in depth each week. Topics range from social and teen issues to environment, health, education and science and technology. There are 44 reports produced each year including four expanded reports. Every 12,000-word report is written by an experienced journalist and features comments from experts, lawmakers and citizens on all sides of every issue. Numerous charts, graphs and sidebar articles -- plus a pro-con feature, a chronology, lengthy bibliographies and a list of contacts -- round out each report. Follow this link to access [CQ Researcher](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/index.php).
 
-- create/edit content pages in the `content` directory.
-- to include a page in the nav, add `nav: true` to the file's yml front matter.
-- the `title:` value will appear in the nav, sorted in the order of filenames. For simplicity use leading numbers in the lesson page filenames to create correct order.
-- the default layout does not add `title` to the page, so that it can be a short for the nav. So add a title in the Markdown content.
+If your research topic is on *Organic vs. conventional farming*, click [this link](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/document.php?id=cqresrre2018110200) to access the full report. You can skim most of the article; the Pro/Con part may be the section that you are most interested in.
 
 ## Components Includes
 
