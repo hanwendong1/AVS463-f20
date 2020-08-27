@@ -24,12 +24,12 @@ emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515,
     </div>
   </div>
   <div class="col-sm-6">
-    <div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
+    <div class="card">
       <div class="card-body">
         <h5 class="card-title">Library Reference</h5>
         <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
         <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
-        <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call</a>
+        <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call 208-885-6584</a>
         <a href = "https://www.lib.uidaho.edu/help/chat.html" class="btn bg-warning mb-3">Chat</a>
         <a href = "sms:208-449-0841" class="btn bg-warning mb-3">Text</a>
       </div>
