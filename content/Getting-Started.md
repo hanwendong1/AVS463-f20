@@ -30,12 +30,10 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             border-collapse: collapse;
             padding: 15px;
             border-bottom: 1px solid #ddd;
-            width: 300px;
-            tr:hover {background-color: #f1b300;}
-         }
+            width: 100%;
          th {
-  background-color: #f1b300;
-  color: white;
+            background-color: #f1b300;
+            color: white;
             }
       </style>
    </head>
