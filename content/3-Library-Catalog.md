@@ -3,7 +3,7 @@ title: Library Catalog
 nav: true
 ---
 
-You can find a variety of different types of sources, from popular to scholarly, in many different formats in library catalog. Click [this link](https://www.lib.uidaho.edu/) to access the catalog. In the search box, type in your keyword search terms. For instance, if your topic is *Low-fat vs. whole milk consumption*, you can use *"Low-fat" AND "whole milk" AND consumption* as your keyword search terms. You may consider adding other keywords, such as effect*, impact*, etc.
+You can find a variety of different types of sources, from popular to scholarly, in many different formats in library catalog. Click [this link](https://www.lib.uidaho.edu/) to access the catalog. In the search box, type in your keyword search terms. For instance, if your topic is *Low-fat vs. whole milk consumption*, you can use *"Low-fat" AND "whole milk" AND consumption* as your keyword search terms. You may consider adding other keywords, such as effect\*, impact\*, etc.
 
 ## Summit
 
