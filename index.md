@@ -9,6 +9,15 @@ layout: default
 
 My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me by emailing me at <hanwendong@uidaho.edu>, calling my office phone at 208-885-2515, or scheduling a zoom meeting with me by following [this link](https://uidaho.co1.qualtrics.com/jfe/form/SV_1GJiDTJ7po0bDk9?topic=Agricultural+%26amp%3B+Life+Sciences&person=Hanwen+Dong&email=hanwendong%40uidaho.edu). You may also contact the library via [chat](https://www.lib.uidaho.edu/help/chat.html), email <libref@uidaho.edu>, or text 208-449-0841 for help.
 
+- [x] Write the press release
+<dl>
+  <dt>First Term</dt>
+  <dd>This is the definition of the first term.</dd>
+  <dt>Second Term</dt>
+  <dd>This is one definition of the second term. </dd>
+  <dd>This is another definition of the second term.</dd>
+</dl>
+
 ## What is This Guide for?
 I developed this guide for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class for fall 2020. The assignment requires identifying a topic for current topic debate and gathering research information that either supports or refutes the issue. Possible topics include: 
  >  - Use of bST (growth hormone) to increase milk production
