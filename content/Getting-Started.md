@@ -54,32 +54,32 @@ Boolean logic used Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Left">Antibiotic AND farm</td>
          </tr>
          <tr>
-            <td style="text-align:Center">OR</td>
+            <th style="text-align:Center">OR</th>
             <td style="text-align:Left">Results can include any of the search terms</td>
             <td style="text-align:Left">lactation OR secretion OR yield</td>
          </tr>
          <tr>
-            <td style="text-align:Center">" "</td>
+            <th style="text-align:Center">" "</th>
             <td style="text-align:Left">Results must include search terms in the defined order</td>
             <td style="text-align:Left">“bovine somatotropin” OR “bovine growth hormone”</td>
          </tr>
           <tr>
-            <td style="text-align:Center">NOT</td>
+            <th style="text-align:Center">NOT</th>
             <td style="text-align:Left">Results exclude the search terms that follows the operator</td>
             <td style="text-align:Left">“skim milk” NOT “powdered milk”</td>
          </tr>
          <tr>
-            <td style="text-align:Center">*</td>
+            <th style="text-align:Center">*</th>
             <td style="text-align:Left">Results can include search terms with different endings of the root word</td>
             <td style="text-align:Left">Lactat* 'for lactate, lactation, lactating, etc.'</td>
          </tr>         
          <tr>
-            <td style="text-align:Center">( )</td>
+            <th style="text-align:Center">( )</th>
             <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
             <td style="text-align:Left">(“low-fat milk” OR “skim milk”) AND “whole milk” AND consumption</td>
          </tr>
          <tr>
-            <td style="text-align:Center">?</td>
+            <th style="text-align:Center">?</th>
             <td style="text-align:Left">Results include words with alternative spellings</td>
             <td style="text-align:Left">“pasteuri?ed milk”</td>
          </tr>
