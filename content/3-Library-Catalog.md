@@ -25,4 +25,4 @@ Similar to the subject terms in Academic Search Premier, LCSH subjects can be us
 
 #### Find Full-Text Online
 
-You can click the **<span style="color:#0F7D00;">Full text available</span>** link to access the full text of the source. Click the title of the source, then click the link to the vender after `Full text available at:` under `View It`. Make sure that you have signed it using your U of I credentials.
+You can click the *<span style="color:#0F7D00;">Full text available</span>* link to access the full text of the source. Click the title of the source, then click the link to the vender after `Full text available at:` under `View It`. Make sure that you have signed it using your U of I credentials.
