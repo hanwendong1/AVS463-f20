@@ -6,6 +6,7 @@ nav: true
 ## Databases
 In addition to [Academic Search Premier](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.asp?profile=ehost&defaultdb=aph&defaultdb=f5h&defaultdb=ufh) and [Web of Science](https://uidaho.idm.oclc.org/login?url=http://webofknowledge.com/UA), here are a few more useful databases to find scholarly articles on dairy science:
 - [Agricola (Ebsco)](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.asp?profile=ehost&defaultdb=agr)
+  - Over 4.8 million citations to journal articles, monographs, theses, patents, software, audio-visual materials, and technical reports. Covers agriculture, plant and animal sciences, forestry, entomology, soil and water resources, and food and nutrition.
 - [CAB Direct](https://uidaho.idm.oclc.org/login?url=https://www.cabdirect.org/)
 - [AGRIS](http://agris.fao.org/agris-search/index.do)
 - [Google Scholar](https://uidaho.idm.oclc.org/login?url=https://scholar.google.com/)
