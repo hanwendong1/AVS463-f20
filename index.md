@@ -11,6 +11,9 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
+        <div class="card-header">
+    Featured
+  </div>
       <div class="card-body">
         <h5 class="card-title">Hanwen Dong</h5>
         <p class="card-text">Contact me if you have any questions about this guide or finding resources related to your discipline.</p>
