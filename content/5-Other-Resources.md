@@ -10,6 +10,10 @@ In addition to [Academic Search Premier](https://uidaho.idm.oclc.org/login?url=h
 - [AGRIS](http://agris.fao.org/agris-search/index.do)
 - [Google Scholar](https://uidaho.idm.oclc.org/login?url=https://scholar.google.com/)
 
+<dl>
+  <dt>[Agricola (Ebsco)](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.asp?profile=ehost&defaultdb=agr)</dt>
+  <dd>Over 4.8 million citations to journal articles, monographs, theses, patents, software, audio-visual materials, and technical reports. Covers agriculture, plant and animal sciences, forestry, entomology, soil and water resources, and food and nutrition.</dd>
+
 ## Journals 
 The library subscribes to the following diary science journals, most of which are online. The articles published by these reputable journals are generally authoritative.
 - [Animal Feed Science and Technology](https://www-sciencedirect-com.uidaho.idm.oclc.org/journal/animal-feed-science-and-technology)
