@@ -15,6 +15,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
       <div class="card-body">
         <p class="card-text">Contact me if you have any questions about this guide or finding resources related to your discipline.<br />
 <br /> 
+          <br /> 
 </p>
         <p> </p>
         <a href = "mailto: hanwendong@uidaho.edu" class="btn bg-warning mb-3">Email</a>
