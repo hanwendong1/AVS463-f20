@@ -12,10 +12,9 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
   <div class="col-sm-6">
     <div class="card">
         <div class="card-header">
-    Featured
+    Hanwen Dong
   </div>
       <div class="card-body">
-        <h5 class="card-title">Hanwen Dong</h5>
         <p class="card-text">Contact me if you have any questions about this guide or finding resources related to your discipline.</p>
         <p> </p>
         <p> </p>
@@ -28,8 +27,10 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
   </div>
   <div class="col-sm-6">
     <div class="card">
+              <div class="card-header">
+               Library Reference 
+                  </div>
       <div class="card-body">
-        <h5 class="card-title">Library Reference</h5>
         <p class="card-text">Contact the library if you have any questions about using the library, finding resources for research papers and projects, creating effective research strategies, managing citations, etc.</p>
         <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
         <a href = "tel:208-885-6584" class="btn bg-warning mb-3">Call 208-885-6584</a>
