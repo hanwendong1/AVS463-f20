@@ -26,9 +26,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
   </div>
   <div class="col-sm-6">
     <div class="card">
-              <div class="card-header">
-               Library Reference 
-                  </div>
+             <h5 class="card-header">Library Reference </h5> 
       <div class="card-body">
         <p class="card-text">Contact the library if you have any questions about using the library, finding resources for research papers and projects, creating effective research strategies, managing citations, etc.</p>
         <a href = "mailto: libref@uidaho.edu" class="btn bg-warning mb-3">Email</a>
