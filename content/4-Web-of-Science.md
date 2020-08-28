@@ -7,7 +7,7 @@ Web of Science has the world’s leading scholarly literature in the sciences, s
 
 In the `Select a database` dropdown menu, choose MEDLINE®. MEDLINE® is the U.S. National Library of Medicine® premier life sciences database that include sources in biomedicine and life sciences, bioengineering, public health, clinical care, and plant and animal science.
 
-In the search box, type in your keyword search terms. For instance, if your topic is *Separation of dairy cow from calf*, you can use keyword search terms *cow AND calf AND separation*. The default search results are sorted by most recent publication date, which may not be how you want the results displayed. The following sorting options may be more helpful:
+In the search box, type in your keyword search terms. For instance, if your topic is **Separation of dairy cow from calf**, you can use keyword search terms *cow AND calf AND separation*. The default search results are sorted by most recent publication date, which may not be how you want the results displayed. The following sorting options may be more helpful:
 
 <dl>
   <dt>Times Cited</dt>
