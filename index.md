@@ -8,7 +8,6 @@ layout: default
 {% include figure.html img="uidaho-workshop.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
 My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me or the library to ask for help.
-
 <div class="row">
   <div class="col-sm-6">
     <div class="card">
@@ -37,7 +36,6 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
     </div>
   </div>
 </div>
-
 ### What is This Guide for?
 I developed this guide for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class for fall 2020. The assignment requires identifying a topic for current topic debate and gathering research information that either supports or refutes the issue. Possible topics include: 
 - Use of bST (growth hormone) to increase milk production
