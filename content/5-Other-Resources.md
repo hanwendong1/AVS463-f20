@@ -32,7 +32,7 @@ The library subscribes to the following diary science journals, most of which ar
 - [Professional Animal Scientist](https://www-proquest-com.uidaho.idm.oclc.org/publication/27148?accountid=14551&OpenUrlRefId=info:xri/sid:primo)
 
 ## Print Books
-One viable search strategy to find print books on a topic is shelf browsing. That is to visit the library and locate the physical bookshelves to browse the book collections with a particular subject focus area using LC call number. For example, if you are interested in Dairy processing and Dairy products, you would want to look for call numbers that start with SF250.5-275. Other relevant call numbers include: 
+One viable search strategy to find print books on a topic is stack browsing. That is to visit the library and locate the physical bookshelves to browse the book collections with a particular subject focus area using LC call number. For example, if you are interested in Dairy processing and Dairy products, you would want to look for call numbers that start with SF250.5-275. Other relevant call numbers include: 
 <html>
    <head>
       <style>
