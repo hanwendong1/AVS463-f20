@@ -26,7 +26,7 @@ On the search results page, you can click the titles of the articles to access t
 
 #### Subjects Search
 
-Subjects is another field that is incredibly useful. Think of subjects as tags—information professionals categorize each information source based on what it is about—that an article may be related to the topic that you are interested in, but the keywords you used do not appear in the title or the content. For example, [this article](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=9610111153&site=ehost-live&scope=site) is about *bovine somatotropin*, but the language only included *bovine growth hormone* so a keyword search may not display this source. This is why searching with subject terms can be more reliable than with keywords.
+Subjects is another field that is incredibly useful that allows you to find results with better precision. Think of subjects as tags—information professionals categorize each information source based on what it is about—that an article may be related to the topic that you are interested in, but the keywords you used do not appear in the title or the content. For example, [this article](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=9610111153&site=ehost-live&scope=site) is about *bovine somatotropin*, but the language only included *bovine growth hormone* so a keyword search may not display this source. This is why searching with subject terms can be more reliable than with keywords.
 Other relevant subjects include:
 -	DRUG side effects
 -	MILK yield
