@@ -19,6 +19,11 @@ This search yields over 4,000 results. You may notice that most of the results a
 
 This time spell out the abbreviation of bST, which stands for *Bovine somatotropin*. Since you are searching for the exact phrase, use quotation marks to wrap around the keywords by typing *Bovine somatotropin* in the search box, then click the `Search` button.
 
+.texttop {vertical-align:top;}
+text1<img src="Screenshots-02.png" width="90" height="14" class="texttop" alt="name of image">text11
+
+text1<img src="images/Screenshots-02.png" width="90" height="14" class="texttop" alt="name of image">text11
+
 <IMG BORDER="0" ALIGN="Right" SRC="images/Screenshots-02.png">This search yields over 1,000 relevant results that include a mix of popular and scholarly sources. If you are only interested in popular sources for now, check the boxes for News and Magazines under Source Types on the left side of the screen. You may also change the Publication Date to limit the results to recent sources from the last few years. 
 
 On the search results page, you can click the titles of the articles to access the abstracts and contents. The publishers and publication dates can be useful. For instance, since you are looking for sources that cover consumer’s perception of using bST to increase milk production, an article published by Consumers' Research Magazine or FDA Consumer would provide such perspective. If you are interested in reading about the topic with recent research, looking at articles published in the last few years would be appropriate; or, you can look at articles published in a span of ten or 20 years if you are interested in researching from a more holistic perspective of the topic and how the public opinion or knowledge on the issue has changed over time.
