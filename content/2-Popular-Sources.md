@@ -19,10 +19,26 @@ This search yields over 4,000 results. You may notice that most of the results a
 
 This time spell out the abbreviation of bST, which stands for *Bovine somatotropin*. Since you are searching for the exact phrase, use quotation marks to wrap around the keywords by typing *Bovine somatotropin* in the search box, then click the `Search` button.
 
-.texttop {vertical-align:top;}
-text1<img src="Screenshots-02.png" width="90" height="14" class="texttop" alt="name of image">text11
+<html>
+<head>
+<style>
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
 
-text1<img src="images/Screenshots-02.png" width="90" height="14" class="texttop" alt="name of image">text11
+</style>
+</head>
+<body>
+
+texttext1
+<figure>
+  <img ALIGN="Right" src="images/Screenshots-02.png" alt="Trulli" style="width:100%">
+</figure>texttext2
+
+</body>
+</html>
 
 <IMG BORDER="0" ALIGN="Right" SRC="images/Screenshots-02.png">This search yields over 1,000 relevant results that include a mix of popular and scholarly sources. If you are only interested in popular sources for now, check the boxes for News and Magazines under Source Types on the left side of the screen. You may also change the Publication Date to limit the results to recent sources from the last few years. 
 
