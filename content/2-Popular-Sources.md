@@ -33,7 +33,7 @@ width:40px;
 
 <div class='container2'>
         <div>
-            <img "Screenshots-02.png" class='iconDetails'>
+            <img="Screenshots-02.png" class='iconDetails'>
         </div>  
     <div style='margin-left:60px;'>
     <h4>Facebook</h4>
