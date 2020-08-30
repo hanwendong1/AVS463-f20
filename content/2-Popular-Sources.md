@@ -11,6 +11,8 @@ Academic Search Premier is a multi-disciplinary database that contains full-text
 
 #### Keywords Search
 
+{% include figure.html img="Screenshots-01.png" alt="Access Academic Search Premier" width="75%" %}
+
 You can access Academic Search Premier from the [library’s homepage](https://www.lib.uidaho.edu/) under the catalog search bar. Once you log in with you UI credentials, you can type in your keyword search terms in the search box. For example, if your topic is **Use of bST (growth hormone) to increase milk production**, you can type bST in the search box and click the `Search` button. 
 
 This search yields over 4,000 results. You may notice that most of the results are not relevant to our topic. Some of the results that came up when searching bST include Band Segmented Transmission, Behavior skills training, Barium Strontium Titanate, etc. Let’s revise our search strategy. 
