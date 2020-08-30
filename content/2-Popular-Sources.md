@@ -34,7 +34,7 @@ figure {
 
 texttext1
 <figure>
-  <img ALIGN="Right" src="images/Screenshots-02.png" alt="Trulli" style="width:100%">
+  <img ALIGN="Right" src="Screenshots-02.png" alt="Trulli" style="width:100%">
 </figure>texttext2
 
 </body>
