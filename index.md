@@ -52,10 +52,10 @@ I developed this guide for students enrolled in Animal and Veterinary Science 46
 
 ### Learning Outcomes
 After reviewing the content of this guide, you will be able to:
-- [x]  Apply Boolean logic to search strategy
-- [x]  Select journals and databases for research in dairy science
-- [x]  Find popular and scholarly sources on chosen topic
-- [x]  Evaluate and revise search strategy based on search results
+- [x]   Apply Boolean logic to search strategy
+- [x]   Select journals and databases for research in dairy science
+- [x]   Find popular and scholarly sources on chosen topic
+- [x]   Evaluate and revise search strategy based on search results
 
 ------
 {% include toc.html %}
