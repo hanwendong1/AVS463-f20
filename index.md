@@ -5,12 +5,6 @@ layout: default
 
 # Hello and Welcome!
 
-[x]  Write the press release
-
-[ ]  Update the website
-
-[ ]  Contact the media
-
 {% include figure.html img="uidaho-workshop.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
 My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me or the library to ask for help.
@@ -58,10 +52,10 @@ I developed this guide for students enrolled in Animal and Veterinary Science 46
 
 ### Learning Outcomes
 After reviewing the content of this guide, you will be able to:
-1. Apply Boolean logic to search strategy
-2. Select journals and databases for research in dairy science
-3. Find popular and scholarly sources on chosen topic
-4. Evaluate and revise search strategy based on search results
+- [x]  Apply Boolean logic to search strategy
+- [x]  Select journals and databases for research in dairy science
+- [x]  Find popular and scholarly sources on chosen topic
+- [x]  Evaluate and revise search strategy based on search results
 
 ------
 {% include toc.html %}
