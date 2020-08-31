@@ -5,6 +5,10 @@ layout: default
 
 # Hello and Welcome!
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 {% include figure.html img="uidaho-workshop.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
 My name is Hanwen Dong and I am the [liaison librarian for College of Agricultural & Life Sciences](https://www.lib.uidaho.edu/about/liaisons.html) at U of I. I welcome you to contact me or the library to ask for help.
