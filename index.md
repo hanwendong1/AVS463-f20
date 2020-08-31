@@ -5,9 +5,9 @@ layout: default
 
 # Hello and Welcome!
 
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+[x]  Write the press release
+[ ]  Update the website
+[ ]  Contact the media
 
 {% include figure.html img="uidaho-workshop.jpg" alt="portrait of Hanwen Dong" caption="portrait of Hanwen Dong (credit: Joe Pallen)" width="75%" %}
 
