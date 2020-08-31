@@ -19,28 +19,7 @@ This search yields over 4,000 results. You may notice that most of the results a
 
 This time spell out the abbreviation of bST, which stands for *Bovine somatotropin*. Since you are searching for the exact phrase, use quotation marks to wrap around the keywords by typing *Bovine somatotropin* in the search box, then click the `Search` button.
 
-<html>
-<head>
-<style>
-figure {
-  border: 1px #cccccc solid;
-  padding: 4px;
-  margin: auto;
-}
-
-</style>
-</head>
-<body>
-
-texttext1
-<figure>
-  <img ALIGN="Right" src="Screenshots-02.png" alt="Trulli" style="width:100%">
-</figure>texttext2
-
-</body>
-</html>
-
-<IMG BORDER="0" ALIGN="Right" SRC="images/Screenshots-02.png">This search yields over 1,000 relevant results that include a mix of popular and scholarly sources. If you are only interested in popular sources for now, check the boxes for News and Magazines under Source Types on the left side of the screen. You may also change the Publication Date to limit the results to recent sources from the last few years. 
+This search yields over 1,000 relevant results that include a mix of popular and scholarly sources. If you are only interested in popular sources for now, check the boxes for News and Magazines under Source Types on the left side of the screen. You may also change the Publication Date to limit the results to recent sources from the last few years. 
 
 On the search results page, you can click the titles of the articles to access the abstracts and contents. The publishers and publication dates can be useful. For instance, since you are looking for sources that cover consumer’s perception of using bST to increase milk production, an article published by Consumers' Research Magazine or FDA Consumer would provide such perspective. If you are interested in reading about the topic with recent research, looking at articles published in the last few years would be appropriate; or, you can look at articles published in a span of ten or 20 years if you are interested in researching from a more holistic perspective of the topic and how the public opinion or knowledge on the issue has changed over time.
 
@@ -49,7 +28,11 @@ On the search results page, you can click the titles of the articles to access t
 
 #### Subjects Search
 
-Subjects is another field that is incredibly useful that allows you to find results with better precision. Think of subjects as tags—information professionals categorize each information source based on what it is about—that an article may be related to the topic that you are interested in, but the keywords you used do not appear in the title or the content. For example, [this article](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=9610111153&site=ehost-live&scope=site) is about *bovine somatotropin*, but the language only included *bovine growth hormone* so a keyword search may not display this source. This is why searching with subject terms can be more reliable than with keywords.
+Subjects is another field that is incredibly useful that allows you to find results with better precision. Think of subjects as tags—information professionals categorize each information source based on what it is about—that an article may be related to the topic that you are interested in, but the keywords you used do not appear in the title or the content. For example, [this article](https://uidaho.idm.oclc.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=f5h&AN=9610111153&site=ehost-live&scope=site) is about *bovine somatotropin*, but the language only included *bovine growth hormone* so a keyword search may not display this source. 
+
+{% include figure.html img="Screenshots-03.png" alt="Subjects Search" width="75%" %}
+
+This is why searching with subject terms can be more reliable than with keywords.
 Other relevant subjects include:
 -	DRUG side effects
 -	MILK yield
@@ -68,6 +51,8 @@ Other useful features of Academic Search Premier include `HTML Full Text` and `P
 ## Opposing Viewpoints
 
 Opposing Viewpoints is another useful database to search for popular sources. The database includes topic overviews, pro/con viewpoint essays, thousands of podcasts (including premier NPR programs), etc. New reference content is added on an ongoing basis, and new full-text periodical and newspaper articles are added every day. Click this link to access [Opposing Viewpoints](https://go-gale-com.uidaho.idm.oclc.org/ps/dispBasicSearch.do?userGroupName=mosc00780&prodId=OVIC).
+
+{% include figure.html img="Screenshots-04.png" alt="Opposing Viewpoints" width="75%" %}
 
 In the search box, type in your search terms (*antibiotics farms*, for instance). Under `SHOWING RESULTS FOR`, click `Viewpoints` to access viewpoint essays. Other useful content types include `Audio`, `News`, and `Magazines`.
 
