@@ -51,7 +51,7 @@ I developed this guide for students enrolled in Animal and Veterinary Science 46
 - Separation of dairy cow from calf
 
 ### Learning Outcomes
-After reviewing the content of this guide, you will be able to:
+After reviewing the contents of this guide, you will be able to:
 1. Apply Boolean logic to search strategy
 2. Select journals and databases for research in dairy science
 3. Find popular and scholarly sources on chosen topic
