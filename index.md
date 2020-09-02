@@ -39,8 +39,8 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
 </div>
  <p> 
 </p>
-### What is This Guide for?
-I developed this guide for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class for fall 2020. The assignment requires identifying a topic for current topic debate and gathering research information that either supports or refutes the issue. Possible topics include: 
+### What is This Website for?
+I created this website for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class for fall 2020. The assignment requires identifying a topic for current topic debate and gathering research information that either supports or refutes the issue. Possible topics include: 
 - Use of bST (growth hormone) to increase milk production
 - Low-fat vs. whole milk consumption
 - Organic vs. conventional farming
