@@ -56,6 +56,12 @@ Opposing Viewpoints is another useful database to search for popular sources. Th
 
 In the search box, type in your search terms (*antibiotics farms*, for instance). Under `SHOWING RESULTS FOR`, click `Viewpoints` to access viewpoint essays. Other useful content types include `Audio`, `News`, and `Magazines`.
 
+## ProCon.org
+
+ProCon.org is the country’s leading source for information and research on all sides of the controversial issues of the day. Its publisher Britannica is one of the most prominent educational publishers in the world, producer of not only the famed Encyclopaedia Britannica, the oldest continuously published (since 1768) and revised work in the English language, but also a large suite of resources for students, schools, and teachers in multiple languages.
+
+[Pros and Cons of Issue on Milk](https://milk.procon.org/)
+
 ## CQ Researcher
 
 The CQ Researcher explores a single 'hot' issue in the news in depth each week. Topics range from social and teen issues to environment, health, education and science and technology. There are 44 reports produced each year including four expanded reports. Every 12,000-word report is written by an experienced journalist and features comments from experts, lawmakers and citizens on all sides of every issue. Numerous charts, graphs and sidebar articles -- plus a pro-con feature, a chronology, lengthy bibliographies and a list of contacts -- round out each report. Follow this link to access [CQ Researcher](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/index.php).
