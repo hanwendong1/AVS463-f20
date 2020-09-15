@@ -50,7 +50,7 @@ Other useful features of Academic Search Premier include `HTML Full Text` and `P
 
 ## Opposing Viewpoints
 
-Opposing Viewpoints is another useful database to search for popular sources. The database includes topic overviews, pro/con viewpoint essays, thousands of podcasts (including premier NPR programs), etc. New reference content is added on an ongoing basis, and new full-text periodical and newspaper articles are added every day. Click this link to access [Opposing Viewpoints](https://go-gale-com.uidaho.idm.oclc.org/ps/dispBasicSearch.do?userGroupName=mosc00780&prodId=OVIC).
+Opposing Viewpoints is another useful database to search for popular sources. The database includes topic overviews, pro/con viewpoint essays, thousands of podcasts (including premier NPR programs), etc. New reference content is added on an ongoing basis, and new full-text periodical and newspaper articles are added every day. Click [this link](https://go-gale-com.uidaho.idm.oclc.org/ps/dispBasicSearch.do?userGroupName=mosc00780&prodId=OVIC) to access Opposing Viewpoints.
 
 {% include figure.html img="Screenshots-04.png" alt="Opposing Viewpoints" width="75%" %}
 
@@ -64,6 +64,6 @@ ProCon.org is the country’s leading source for information and research on all
 
 ## CQ Researcher
 
-The CQ Researcher explores a single 'hot' issue in the news in depth each week. Topics range from social and teen issues to environment, health, education and science and technology. There are 44 reports produced each year including four expanded reports. Every 12,000-word report is written by an experienced journalist and features comments from experts, lawmakers and citizens on all sides of every issue. Numerous charts, graphs and sidebar articles -- plus a pro-con feature, a chronology, lengthy bibliographies and a list of contacts -- round out each report. Follow this link to access [CQ Researcher](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/index.php).
+The CQ Researcher explores a single 'hot' issue in the news in depth each week. Topics range from social and teen issues to environment, health, education and science and technology. There are 44 reports produced each year including four expanded reports. Every 12,000-word report is written by an experienced journalist and features comments from experts, lawmakers and citizens on all sides of every issue. Numerous charts, graphs and sidebar articles -- plus a pro-con feature, a chronology, lengthy bibliographies and a list of contacts -- round out each report. Follow [this link](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/index.php) to access CQ Researcher.
 
 If your topic is on *Organic vs. conventional farming*, click [this link](https://library-cqpress-com.uidaho.idm.oclc.org/cqresearcher/document.php?id=cqresrre2018110200) to access the full report. You can skim most of the article; the Pro/Con part may be the section that you are most interested in.
