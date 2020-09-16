@@ -57,7 +57,7 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          <tr>
             <th style="text-align:Center">OR</th>
             <td style="text-align:Left">Results can include any of the search terms</td>
-            <td style="text-align:Left">lactation OR secretion OR yield</td>
+            <td style="text-align:Left">production OR lactation OR secretion OR yield</td>
          </tr>
          <tr>
             <th style="text-align:Center">" "</th>
