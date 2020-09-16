@@ -75,14 +75,14 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
             <td style="text-align:Left">Lactat* [for lactate, lactation, lactating, etc.]</td>
          </tr>         
          <tr>
-            <th style="text-align:Center">( )</th>
-            <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
-            <td style="text-align:Left">(“low-fat milk” OR “skim milk”) AND “whole milk” AND consumption</td>
-         </tr>
-         <tr>
             <th style="text-align:Center">?</th>
             <td style="text-align:Left">Results include words with alternative spellings</td>
             <td style="text-align:Left">“pasteuri?ed milk”</td>
+         </tr>
+          <tr>
+            <th style="text-align:Center">( )</th>
+            <td style="text-align:Left">Results include the phrase with the order of relationships organized</td>
+            <td style="text-align:Left">(“low-fat milk” OR “skim milk”) AND “whole milk” AND consumption</td>
          </tr>
       </table>
    </body>
