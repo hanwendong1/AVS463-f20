@@ -9,7 +9,7 @@ You can find a variety of different types of sources, from popular to scholarly,
 
 {% include figure.html img="Screenshots-07.png" alt="Summit" width="75%" %}
 
-In the dropdown menu next to the microphone icon in the search box, choose UI Library+E-Resources if you are only interested in resources that can be found in the U of I Library. Otherwise, choose UI+Summit+E-Resources to access resources in [37 academic libraries throughout Oregon, Washington and Idaho](https://www.lib.uidaho.edu/services/ill/summit.html). Please keep in mind that delivery may be delayed due to lending library closures, materials quarantine, or shipping issues. 
+In the dropdown menu next to the magnifying glass icon in the search box, choose UI Library+E-Resources if you are only interested in resources that can be found in the U of I Library. Otherwise, choose UI+Summit+E-Resources to access resources in [37 academic libraries throughout Oregon, Washington and Idaho](https://www.lib.uidaho.edu/services/ill/summit.html). Please keep in mind that delivery may be delayed due to lending library closures, materials quarantine, or shipping issues. 
 
 #### Personalize
 
