@@ -54,7 +54,7 @@ Opposing Viewpoints is another useful database to search for popular sources. Th
 
 {% include figure.html img="Screenshots-04.png" alt="Opposing Viewpoints" width="75%" %}
 
-In the search box, type in your search terms (*antibiotics farms*, for instance). Under `SHOWING RESULTS FOR`, click `Viewpoints` to access viewpoint essays. Other useful content types include `Audio`, `News`, and `Magazines`.
+In the search box, type in your search terms (*antibiotics farms* if your topic is on **Antibiotic use on farm**, for instance). Under `SHOWING RESULTS FOR`, click `Viewpoints` to access viewpoint essays. Other useful content types include `Audio`, `News`, and `Magazines`.
 
 ## ProCon.org
 
