@@ -14,7 +14,6 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
            <h5 class="card-header">Hanwen Dong</h5> 
       <div class="card-body">
         <p class="card-text">Contact me if you have any questions about this website or finding resources related to Animal, Veterinary and Food Sciences.<br />
-<br /> 
           <br /> 
 </p>
         <p> </p>
