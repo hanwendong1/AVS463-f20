@@ -13,7 +13,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
     <div class="card">
            <h5 class="card-header">Hanwen Dong</h5> 
       <div class="card-body">
-        <p class="card-text">Contact me if you have any questions about this guide or finding resources related to your discipline.<br />
+        <p class="card-text">Contact me if you have any questions about this website or finding resources related to Animal, Veterinary and Food Sciences.<br />
 <br /> 
           <br /> 
 </p>
@@ -40,7 +40,7 @@ My name is Hanwen Dong and I am the [liaison librarian for College of Agricultur
  <p> 
 </p>
 ### What is This Website for?
-I created this website for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class for fall 2020. The assignment requires identifying a topic for current topic debate and gathering research information that either supports or refutes the issue. Possible topics include: 
+I created this website for students enrolled in Animal and Veterinary Science 463 *Growth and Lactation* class for fall 2020. The assignment requires identifying a topic for current topic debate and gathering research information (consumer’s perception of the subject as well as scientific-based knowledge) that either supports or refutes the issue. Possible topics include: 
 - Use of bST (growth hormone) to increase milk production
 - Low-fat vs. whole milk consumption
 - Organic vs. conventional farming
