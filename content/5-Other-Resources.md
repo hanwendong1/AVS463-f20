@@ -83,8 +83,9 @@ One viable search strategy to find print books on a topic is stack browsing. Tha
    <p>
    </p>
 </html>
-
-Use the [floor maps](https://www.lib.uidaho.edu/about/maps.html) to locate the shelves that contain the specified call number groups.
+{% capture text %}Use the [floor maps](https://www.lib.uidaho.edu/about/maps.html) to locate the shelves that contain the specified call number groups.
+{% endcapture %}
+{% include alert.md text=text color="warning" %}
 
 ## Government Documents
 When searching the library catalog, you can filter the results by `Government Documents` under `Resource Type`. These documents are located on the library basement. You can click [this link](https://www.lib.uidaho.edu/find/govdocs/) or email <a href = "mailto: rattebur@uidaho.edu">Rami Attebury</a> to learn more about how to access government documents. 
