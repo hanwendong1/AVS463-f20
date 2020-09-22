@@ -109,3 +109,5 @@ You may also consider using a citation manager (if you have never used one befor
 
 {% include video-embed.html youtubeid="yw1oe57SqzE" caption="Citation Management with Zotero" %}
 
+## Post-Instruction Survey
+Please consider taking a moment to fill out this survey. Your input is greatly appreciated :)
