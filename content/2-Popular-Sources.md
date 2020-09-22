@@ -17,7 +17,7 @@ You can access Academic Search Premier from the [library’s homepage](https://w
 
 This search yields over 4,000 results. You may notice that most of the results are not relevant to our topic. Some of the results that came up when searching bST include Band Segmented Transmission, Behavior skills training, Barium Strontium Titanate, etc. Let’s revise our search strategy. 
 
-This time spell out the abbreviation of bST, which stands for *"Bovine somatotropin"*. Since you are searching for the exact phrase, use quotation marks to wrap around the keywords by typing *Bovine somatotropin* in the search box, then click the `Search` button.
+This time spell out the abbreviation of bST, which stands for *"Bovine somatotropin"*. Since you are searching for the exact phrase, use quotation marks to wrap around the keywords after typing *Bovine somatotropin* in the search box, then click the `Search` button.
 
 This search yields over 1,000 relevant results that include a mix of popular and scholarly sources. If you are only interested in popular sources for now, check the boxes for News and Magazines under Source Types on the left side of the screen. You may also change the Publication Date to limit the results to recent sources from the last few years. 
 
