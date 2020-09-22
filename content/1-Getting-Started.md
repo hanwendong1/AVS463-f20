@@ -90,5 +90,6 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
    </p>
 </html>
 
-
-You can check out [this guide](https://libguides.uidaho.edu/boolean) to learn more about Boolean logic.
+{% capture text %}You can check out [this guide](https://libguides.uidaho.edu/boolean) to learn more about Boolean logic.
+{% endcapture %}
+{% include alert.md text=text color="warning" %}
