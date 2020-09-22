@@ -51,12 +51,12 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          </tr>
          <tr>
             <th style="text-align:Center">AND</th>
-            <td style="text-align:Left">All search terms must be present in the results</td>
+            <td style="text-align:Left">Each result contains all search terms</td>
             <td style="text-align:Left">Antibiotic AND farm</td>
          </tr>
          <tr>
             <th style="text-align:Center">OR</th>
-            <td style="text-align:Left">Results can include any of the search terms</td>
+            <td style="text-align:Left">Each result contains at least one search term</td>
             <td style="text-align:Left">production OR lactation OR secretion OR yield</td>
          </tr>
          <tr>
@@ -66,7 +66,7 @@ Boolean logic uses Boolean operators (such as `AND`, `OR`, `NOT`) to narrow, exp
          </tr>
           <tr>
             <th style="text-align:Center">NOT</th>
-            <td style="text-align:Left">Results exclude the search terms that follows the operator</td>
+            <td style="text-align:Left">Results do not contain the specified terms</td>
             <td style="text-align:Left">“skim milk” NOT “powdered milk”</td>
          </tr>
          <tr>
