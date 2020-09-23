@@ -1,6 +1,6 @@
 ---
 title: Popular Sources
-nav: true
+nav: true 
 ---
 
 The assignment requires gathering information on consumers’ perceptions of your chosen subject. We will primarily use Academic Search Premier and CQ Researcher to find popular sources. 
