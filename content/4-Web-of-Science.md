@@ -5,7 +5,7 @@ nav: true
 
 Web of Science has the world’s leading scholarly literature in the sciences, social sciences, arts, and humanities. The database includes proceedings of international conferences, symposia, seminars, colloquia, workshops, and conventions. Click [this link](https://uidaho.idm.oclc.org/login?url=http://webofknowledge.com/UA) to access Web of Science.
 
-In the `Select a database` dropdown menu, choose MEDLINE®. MEDLINE® is the U.S. National Library of Medicine® premier life sciences database that include sources in biomedicine and life sciences, bioengineering, public health, clinical care, and plant and animal science.
+In the `Select a database` dropdown menu, choose either `Web of Science Core Collection` or `MEDLINE®`. MEDLINE® is the U.S. National Library of Medicine® premier life sciences database that include sources in biomedicine and life sciences, bioengineering, public health, clinical care, and plant and animal science.
 
 In the search box, type in your keyword search terms. For instance, if your topic is **Separation of dairy cow from calf**, you can use keyword search terms *cow AND calf AND separation*. The default search results are sorted by most recent publication date, which may not be how you want the results displayed. The following sorting options may be more helpful:
 
